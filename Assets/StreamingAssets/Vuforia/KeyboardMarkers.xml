@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <ImageTarget name="TripleImageTarget.Front" size="0.100000 0.100000"/>
+        <ImageTarget name="TripleImageTarget.Left" size="0.100000 0.100000"/>
+        <ImageTarget name="TripleImageTarget.Right" size="0.100000 0.100000"/>
+        <MultiTarget name="TripleImageTarget">
+            <Part name="TripleImageTarget.Left" translation="-0.195 0 0" rotation="AD: 1 0 0 0"/>
+            <Part name="TripleImageTarget.Right" translation="0.195 0 0" rotation="AD: 1 0 0 0"/>
+            <Part name="TripleImageTarget.Front" translation="0 0 0" rotation="AD: 1 0 0 0"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>
+

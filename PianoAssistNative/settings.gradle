@@ -1,0 +1,2 @@
+include ':midinative'
+rootProject.name='PianoAssistNative'
