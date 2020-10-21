@@ -6,3 +6,11 @@ Developed with Unity and Vuforia.
 
 ![headmounted](/showcase/headmounted.gif)
 ![handheld](/showcase/handheld.gif)
+
+**Features:**
+- MIDI files
+- left and right hand separation
+- training mode
+- speed adjustment
+- song navigation
+- score system
